@@ -2,7 +2,7 @@
 Automação que faz o cadastro de várias empresas em um site contábil
 
 Código criado para automatizar o cadastro de empresas em um site contábil.
-No código foram utilizadas as bibliotecas Pandas, Selenium e Openpyxl. Tabém utilizados os módulos time e os
+No código foram utilizadas as bibliotecas Pandas, Selenium e Openpyxl. Tabém utilizados os módulos time e os.
 Estas bibliotecas são utilizadas para a manipulação de planilhas, arquivos e controle de navegador web.
 Foram utilizas configurações para que os dados de e-mail e senha fiquem numa planilha externa e sejam utilizados em variáveis dentro do código.
 
